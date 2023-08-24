@@ -2,7 +2,7 @@
 <p> UX & UI DESIGNER </p>
 
 <h2> PORTFOLIO :woman_technologist:  </h2>
-<p> Website: https://angibogi.github.io/juliet_portoflio/ </p>
+<p> Website: https://angibogi.github.io/Sarra_portfolio/#about </p>
 <p> Linkedin: https://www.linkedin.com/in/sarra-slimane/ </p>
 
 <h2> PROFILE :seedling: </h2>
